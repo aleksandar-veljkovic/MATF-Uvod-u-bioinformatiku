@@ -1,2 +1,2 @@
-# Uvod u bioinformatiku: Materijali sa časova
+# Uvod u bioinformatiku: Materijali sa časova vežbi
 Materijali su pripremljeni na osnovu pseudokodova iz knjige *Phillip Compeau, Pavel Pevzner - Bioinformatics Algorithms: An Active Learning Approach*
